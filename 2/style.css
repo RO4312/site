@@ -1,0 +1,204 @@
+:root{
+    --fonte1:'inter';
+    
+}
+
+
+
+body{
+    
+    
+ 
+    
+    background-color: rgb(77, 55, 182);
+    background-image: url(./img/trator.png);
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+
+
+    
+ 
+}
+
+div {
+    display: block;
+    height: 7.5rem;
+    width:auto ;
+    border-radius: 0.625rem;
+    
+   
+    
+    
+   }
+
+
+
+  .li {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 0.625rem;
+    color: black;
+    font-family: var(--fonte1);
+  }
+
+  .li a :hover{
+    color:  rgb(15, 207, 127);
+    text-decoration:underline;
+    transition: all 10ms ease-in;
+    
+       }
+  .beneficios{      margin-top: -2.5rem;  /* distancis do topo */
+    
+    background-color: transparent;
+    color: black;
+    padding: 0.3125rem;
+    display: block;
+    width: 7.1875rem;
+    text-decoration: none ;
+    height: 12.5rem;
+    width: 13.125rem;
+    font-family: var(--fonte1);
+
+
+    
+    font-size:xx-large;
+    margin-left: 0.5rem;
+    margin-right: 1.25rem;
+
+
+}
+
+.como-funciona{      margin-top: -2.5rem;  /* distancis do topo em rela a margen */
+    
+    background-color:transparent;
+    color: black;
+    padding: 0.3125rem;
+    display: flex;
+    width: 7.1875rem;
+    text-decoration: none ;
+    height: 12.5rem;
+    width:16rem;
+
+
+    
+    font-size:xx-large;
+    margin-left: 1.25rem;
+    margin-right: 3%;
+
+}
+
+  .dodo{ 
+    color: rgb(248, 248, 248);
+    font-family: var(--fonte1);
+    font-size:x-large;
+    margin-left: 13rem;
+    margin-top: 3rem;
+    width: 35rem;
+    padding: 0.3125rem;
+    border-radius: 6.25rem;
+    background-image: url(./img/verd.png);
+     border: 0.3125rem solid black;  
+
+  }
+
+  .do{display: flex;
+    margin-left: 1.9rem;
+    
+
+  }
+
+  .I{
+    position: absolute;
+    
+    display: block;
+    
+    margin-top: -7rem;
+    
+  
+  }
+
+  .II{
+    display: flex;
+    margin-left: 115dvh;
+    margin-top: 5vh;
+    width: 15rem;
+
+  }
+
+  .III{
+    display: flex;
+    margin-left: 115dvh ;
+    margin-top: 1vh;
+    width: 15rem;
+    
+  }
+  .fot:hover {
+    margin-left: 0.0625rem;
+   transition: all 1s;
+    
+    
+  }
+
+  .X{
+    
+    height: 20rem;
+   margin-top: 10rem;
+    margin-left: 10rem;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
